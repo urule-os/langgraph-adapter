@@ -2,7 +2,7 @@
 
 LangGraph + Anthropic Claude orchestrator adapter with streaming, tool use, and real-time WebSocket delivery.
 
-Part of the [Urule](https://github.com/urule-os/urule) ecosystem — the open-source coordination layer for AI agents.
+Part of the [Urule](https://github.com/urule-ai/urule) ecosystem — the open-source coordination layer for AI agents.
 
 ## Features
 
